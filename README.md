@@ -2,6 +2,10 @@
 
 The organizer sorts files into folders based on their file types. Use `organize.sh` on Linux/macOS, or `organize.py` on any system with Python installed.
 
+> Cross-platform scripts for automatically organizing files by type.
+
+**Topics:** `file-organizer` `automation` `bash` `python` `windows` `macos` `linux`
+
 ## Categories
 
 - `Programs`
